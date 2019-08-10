@@ -1,0 +1,97 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+
+  .container {
+   background-color: white;
+  }
+
+  .row {
+    margin-left: 15rem;
+  }
+
+#name {
+  color: black;
+  -webkit-text-fill-color: black; /* Will override color (regardless of order) */
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
+  float: left;
+}
+
+   id { 
+    text-align: center;
+  }
+
+
+  p {
+    margin: 25px 50px 75px 100px;
+  }
+  body {
+    background-color: lightblue;
+  }
+  
+
+
+
+
+
+  h1 {
+    color: rgb(8, 2, 2);
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+
+
+
+
+  ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 20px;
+  }
+
+  p.ex1 {
+    border: 1px solid black;
+    outline-style: solid;
+    outline-color: red;
+  }
+  
+  p.ex2 {
+    border: 1px solid black;
+    outline-style: double;
+    outline-color: green;
+  }
+  
+  p.ex3 {
+    border: 1px solid black;
+    outline-style: outset;
+    outline-color: yellow;
+  }
+  
+  
